@@ -25,7 +25,7 @@ This is a simple React project that demonstrates how to create a configurable UI
 
 ## Project Structure
 
-configui/
+```configui/
 ├── public/
 ├── src/
 │ ├── components/
@@ -36,4 +36,4 @@ configui/
 │ ├── config.js
 │ ├── App.js
 │ ├── index.js
-├── package.json
+├── package.json```
